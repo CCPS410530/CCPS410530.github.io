@@ -1,9 +1,7 @@
 
 P{
 color:white;
-}
-  P{
-    color:black;
+  Font-family: Ariel;
 }
 <h1>Favorite Food</h1>
 <ul>
@@ -12,6 +10,7 @@ color:white;
 </ul>
 body {
   font-family: "Open Sans", sans-serif;
+   background-color: white;
 }
 header {
   display: flex;
@@ -20,4 +19,7 @@ header {
 footer {
   position: relative;
   height: 30rem;
+}
+h1 {
+  font-size: 42px;
 }
