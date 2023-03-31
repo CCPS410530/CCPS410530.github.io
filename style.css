@@ -1,1 +1,23 @@
 
+P{
+color:white;
+}
+  P{
+    color:black;
+}
+<h1>Favorite Food</h1>
+<ul>
+<li>Pupusas</li>
+<li>Pasta</li>
+</ul>
+body {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  display: flex;
+  align-items: center;
+}
+footer {
+  position: relative;
+  height: 30rem;
+}
